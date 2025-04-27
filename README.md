@@ -12,6 +12,6 @@ The rules of the game have been modified for the sake of simplicity in Assembly,
   - The board is filled but none of the players found the win condition, resulting in a tie.
 - Repeat step 1 until all of the squares on the board is played.
 
-  References:  
+References:  
   Gomoku Wikipedia: https://en.wikipedia.org/wiki/Gomoku
   
